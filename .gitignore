@@ -1,0 +1,8 @@
+.env
+app.log
+result.json
+pdf_images/
+__pycache__/
+*.pdf
+venv/
+.venv/
